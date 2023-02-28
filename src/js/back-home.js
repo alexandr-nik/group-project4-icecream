@@ -14,7 +14,6 @@ function backToTop() {
 }
 backToTop();
 
-
 var $page = $('html, body');
 $('a[href*="#about"]').click(function () {
   $page.animate(
