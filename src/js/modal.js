@@ -25,6 +25,7 @@
       });
 })(window.Element.prototype);
 
+
 document.addEventListener('DOMContentLoaded', function () {
   var modalButtons = document.querySelectorAll('.js-open-modal'),
     overlays = document.querySelectorAll('.js-overlay-modal'),
